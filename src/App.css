@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #52271f;
+  --primary-color-200: #5c3731;
+  --primary-color-300: #ac7627;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: Helvetica, sans-serif;
+}
